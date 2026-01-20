@@ -24,7 +24,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_ENABLE_CAMPAIGNS": "true",
   "VITE_TELEGRAM_URL": "",
   "VITE_DISCORD_URL": "",
-  "VITE_TWITTER_URL": "",
+  "VITE_TWITTER_URL": "https://x.com/exitliq_app",
   "VITE_SEO_SITE_NAME": "exitliq",
   "VITE_SEO_SITE_DESCRIPTION": "perp trading for people who know how this ends.",
   "VITE_SEO_SITE_URL": "https://exitliq.app",
